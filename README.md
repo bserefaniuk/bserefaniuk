@@ -29,4 +29,7 @@ Currently based in **Barcelona, Spain**, I collaborate globally and work comfort
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/bohdan-serefaniuk)
+<a href="https://www.linkedin.com/in/bohdan-serefaniuk" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.bserefaniuk.es/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+<a href="https://blog.bserefaniuk.es/" target="_blank"><img align="center" src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+<a href="https://medium.bserefaniuk.es/" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
