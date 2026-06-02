@@ -17,7 +17,7 @@ Currently based in **Barcelona, Spain**, I collaborate globally and work comfort
 - 🌱 Always exploring better ways to design scalable backends and AI-powered features  
 - 👯 Open to collaborating on challenging backend or AI integration projects  
 - 💬 Ask me about Node.js, Python, cloud architecture, and event-driven systems  
-- 📫 Reach me at [work.bserefaniuk@gmail.com](mailto:work.bserefaniuk@gmail.com)  
+- 📫 Reach me at [contact@bserefaniuk.es](mailto:contact@bserefaniuk.es)  
 - ⚡ Fun fact: obsessed with optimizing performance for high-traffic apps
 
 ## My Skills
